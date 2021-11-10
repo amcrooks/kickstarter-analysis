@@ -12,10 +12,9 @@
 
 #Analysis
 
-- ![This is an image](/Users/lexiec/Desktop/Screen Shot 2021-10-26 at 10.52.06 PM.png)
-- ![This is an image](/Users/lexiec/Desktop/Screen Shot 2021-10-26 at 11.01.00 PM.png)
-- ![This is an image](/Users/lexiec/Desktop/Screen Shot 2021-10-26 at 11.01.56 PM.png)
-
+- ![Image](Screen Shot 2021-10-26 at 11.01.00 PM.png)
+- ![Image](Screen Shot 2021-10-26 at 11.01.56 PM.png)
+- ![Image](Screen Shot 2021-10-26 at 10.52.06 PM.png)
 
 #Challenges
 
